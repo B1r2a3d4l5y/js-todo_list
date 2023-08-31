@@ -1,22 +1,10 @@
-*{
+:before::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:  black;
-}
-.input {
-    color: white;
-}
-.add {
-    display: inline-block;
-    position: relative;
-    color: white;
-    background-color: green;
 
 }
-.remove {
-    display: inline-block;
-    position: relative;
-    color: white;
-    background-color: red;
+body {
+    background-color: pink;
+    
 }
